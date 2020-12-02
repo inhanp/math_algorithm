@@ -1,1 +1,1 @@
-# math_algorithm_1
+# math_algorithm
